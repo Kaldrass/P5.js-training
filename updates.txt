@@ -1,0 +1,12 @@
+à faire :
+
+- click and go / d&d
+- surligner les cases jouées ~*
+- mettre les possibilités de déplacement au premier plan *
+- promotion 
+- mise en échec
+- mat
+- en passant *
+- score actuel ~*
+- pièces graillées sur le côté (avec simplification)
+
